@@ -1,7 +1,6 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "lic": "GalangTehjokR"
   "description": "Script Activity by Lang Dev",
   "main": "index.js",
   "scripts": {
