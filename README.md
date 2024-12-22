@@ -1,10 +1,10 @@
-# Discord Activity Bot
+# Discord Activity 24 Jam 🌟
 
-Untuk Update Kali Ini Cuma Sedikit
+Untuk Activity Sekarang Lebih Bagus Dan Aman Yang Penting Jangan Di Share Ke Orang Lain Dan Di Ubah ubah ya, Untuk Button Link Nya Gak Support Discord Terbaru Jadi Gak Muncul Tunggu Ajh update-an selanjutnya
 
 ## Fitur Update
 
-- Button Link Lagi Eror.
+- Button Link.
 - Tambahkan Gambar kecil.
 - Support Hosting.
 - Auto Respon [Premium].
@@ -12,3 +12,4 @@ Untuk Update Kali Ini Cuma Sedikit
 
 ## Update Tinggal
 ```22/12/2024-25```
+## traktir
