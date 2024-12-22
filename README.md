@@ -13,4 +13,4 @@ Untuk Activity Sekarang Lebih Bagus Dan Aman Yang Penting Jangan Di Share Ke Ora
 ## Update Tinggal
 ```22/12/2024-25```
 ## traktir
-<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Traktir Saya ','#03A9F4','https://trakteer.id/galang_thejokr/tip/embed/modal','https://trakteer.id/images/mix/cendol.png','40','floating-left');trbtnOverlay.draw(trbtnId);})();</script>
+<a href="https://trakteer.id/galang_thejokr" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
