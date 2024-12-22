@@ -29,8 +29,7 @@ client.on('ready', async () => {
     client.user.setPresence({ status: 'dnd' });
 });
 
-client.login("OTc3NTAzMDkxMzkxODYwNzY5.GITKxa.8Mf6Y5k0M_rcCjriY4Na3hKisr53y53gbQkV3c");
-
+client.login("Token Discord Anda")
 
 
 
